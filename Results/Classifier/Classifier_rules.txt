@@ -1,0 +1,19 @@
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 <= 553.055) and (atr9 > 252.625) then class: 3-4 (prob: 100.0%) | based on 13 samples
+if (atr14 > 40.545) and (atr16 > 123.76) then class: 3-4 (prob: 100.0%) | based on 11 samples
+if (atr14 <= 40.545) and (atr12 <= 53.22) and (atr4 > 256.85) and (atr4 > 342.25) and (atr13 > 42.885) then class: 1-2 (prob: 100.0%) | based on 11 samples
+if (atr14 <= 40.545) and (atr12 <= 53.22) and (atr4 <= 256.85) then class: 1-2 (prob: 100.0%) | based on 10 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 <= 0.155) and (atr4 > 109.085) then class: 1-2 (prob: 100.0%) | based on 7 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 > 553.055) and (art10 <= 2.58) and (atr16 > 258.29) then class: 3-4 (prob: 100.0%) | based on 6 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 > 553.055) and (art10 <= 2.58) and (atr16 <= 258.29) and (atr14 > 18.43) and (atr2 > 0.45) then class: 1-2 (prob: 100.0%) | based on 6 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 > 553.055) and (art10 > 2.58) then class: 1-2 (prob: 100.0%) | based on 6 samples
+if (atr14 <= 40.545) and (atr12 <= 53.22) and (atr4 > 256.85) and (atr4 <= 342.25) then class: 3-4 (prob: 100.0%) | based on 5 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 <= 553.055) and (atr9 <= 252.625) and (atr12 > 86.035) then class: 3-4 (prob: 100.0%) | based on 5 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 <= 553.055) and (atr9 <= 252.625) and (atr12 <= 86.035) and (atr4 > 105.57) then class: 1-2 (prob: 100.0%) | based on 4 samples
+if (atr14 <= 40.545) and (atr12 <= 53.22) and (atr4 > 256.85) and (atr4 > 342.25) and (atr13 <= 42.885) and (atr9 <= 854.25) then class: 3-4 (prob: 100.0%) | based on 4 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 > 553.055) and (art10 <= 2.58) and (atr16 <= 258.29) and (atr14 <= 18.43) then class: 3-4 (prob: 100.0%) | based on 3 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 > 553.055) and (art10 <= 2.58) and (atr16 <= 258.29) and (atr14 > 18.43) and (atr2 <= 0.45) then class: 3-4 (prob: 100.0%) | based on 2 samples
+if (atr14 > 40.545) and (atr16 <= 123.76) and (atr5 <= 15.32) then class: 1-2 (prob: 100.0%) | based on 2 samples
+if (atr14 <= 40.545) and (atr12 <= 53.22) and (atr4 > 256.85) and (atr4 > 342.25) and (atr13 <= 42.885) and (atr9 > 854.25) then class: 1-2 (prob: 100.0%) | based on 2 samples
+if (atr14 > 40.545) and (atr16 <= 123.76) and (atr5 > 15.32) then class: 3-4 (prob: 100.0%) | based on 1 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 > 0.155) and (atr9 <= 553.055) and (atr9 <= 252.625) and (atr12 <= 86.035) and (atr4 <= 105.57) then class: 3-4 (prob: 100.0%) | based on 1 samples
+if (atr14 <= 40.545) and (atr12 > 53.22) and (atr17 <= 0.155) and (atr4 <= 109.085) then class: 3-4 (prob: 100.0%) | based on 1 samples
